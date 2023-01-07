@@ -120,9 +120,9 @@ p.failures_text {
     line-height: 1.8;
 }
 
-.failures_list li img {
+.failures_list li span {
     width: 18px;
-    margin-right: 14px;
+    margin-right: 10px;
 }
 
 /* end failures */
@@ -364,5 +364,5 @@ form.footer_form input[type="text"]::placeholder {
     margin-top: 60px;
 }
  /* End Footer Section */
- 
+
 
